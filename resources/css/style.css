@@ -1,0 +1,10 @@
+a {
+    text-decoration: none; /* Bỏ gạch chân */
+    color: inherit; /* Kế thừa màu sắc từ cha đốt */
+  }
+
+  .container {
+    background-color: aqua;
+  }
+
+  
